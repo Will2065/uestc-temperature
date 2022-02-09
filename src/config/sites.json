@@ -33,7 +33,7 @@
     "method": "POST",
     "url": "https://jzsz.uestc.edu.cn/wxvacation/api/epidemic/monitorRegister",
     "data": {
-      "currentAddress": "江苏省苏州市常熟市",
+      "currentAddress": "江苏省苏州市吴中区",
       "remark": "",
       "healthInfo": "正常",
       "healthColor": "绿色",
@@ -45,7 +45,7 @@
       "temperature": "36.5°C~36.9°C",
       "province": "江苏省",
       "city": "苏州市",
-      "county": "常熟市"
+      "county": "吴中区"
     }
   }
 }

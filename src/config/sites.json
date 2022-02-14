@@ -33,7 +33,7 @@
     "method": "POST",
     "url": "https://jzsz.uestc.edu.cn/wxvacation/api/epidemic/monitorRegister",
     "data": {
-      "currentAddress": "江苏省苏州市吴中区",
+      "currentAddress": "福建省厦门市集美区",
       "remark": "",
       "healthInfo": "正常",
       "healthColor": "绿色",
@@ -43,9 +43,9 @@
       "isLeaveChengdu": 1,
       "isSymptom": 0,
       "temperature": "36.5°C~36.9°C",
-      "province": "江苏省",
-      "city": "苏州市",
-      "county": "吴中区"
+      "province": "福建省",
+      "city": "厦门市",
+      "county": "集美区"
     }
   }
 }
